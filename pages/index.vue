@@ -2,7 +2,6 @@
   <div class="container">
    <h1>Hello I am a new vue!</h1>
     </div>
-  </div>
 </template>
 
 <script>
