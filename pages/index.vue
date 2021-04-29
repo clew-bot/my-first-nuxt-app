@@ -7,7 +7,7 @@
 
 <script>
 // we can just do '~/components/Header.vue' to skip the dot slashes everywhere
-import Header from "../components/Header"
+import Header from "~/components/Header"
 
 export default {
   components: {

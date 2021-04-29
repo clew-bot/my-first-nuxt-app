@@ -1,10 +1,20 @@
 <template>
   <div>
-      <p>USERS!</p>
+      <Header/>
     <!-- this is place where different pages can be loaded in  -->
     <Nuxt />
   </div>
 </template>
+
+<script>
+import Header from '@/components/Header'
+
+export default {
+  components: {
+    Header
+  }
+}
+</script>
 
 <style>
 
