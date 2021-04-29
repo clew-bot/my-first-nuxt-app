@@ -33,7 +33,7 @@ html {
 *::after {
   box-sizing: border-box;
   margin: 0;
-border: solid 2px black;
+
 }
 
 .button--green {
