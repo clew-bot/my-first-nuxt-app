@@ -1,6 +1,6 @@
 <template>
   <div class="container">
-   <h1>Hello I am a new vue!</h1>
+   <nuxt-link to="/users">Users</nuxt-link>
     </div>
 </template>
 
