@@ -1,6 +1,6 @@
 <template>
   <div class="container">
-   <nuxt-link to="/users">Users</nuxt-link>
+   <nuxt-link to="/users" id="link">Users</nuxt-link>
     </div>
 </template>
 
@@ -9,6 +9,12 @@ export default {}
 </script>
 
 <style>
+
+#link {
+  display: flex;
+  justify-content: center;
+}
+
 .container {
   margin: 0 auto;
   min-height: 100vh;
