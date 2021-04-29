@@ -36,4 +36,9 @@ export default {
    width: 80%
 }
 
+.nav-items a {
+    text-decoration: none;
+    color: black;
+}
+
 </style>
